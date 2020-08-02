@@ -18,7 +18,7 @@ elif(z > y):
     w = z - y
     print(w)
 else:
-    ('x = y')
+    (x = y)
 
 
 day = 1
