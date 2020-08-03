@@ -1,6 +1,6 @@
 class car:
     speed = 0
-    clor = 'none'
+    color = 'none'
     def increment(self):
         print('increment')
     def decrement(self):
